@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! I'm Cristina</h1>
-<h3 align="center">Full-Stack Web Developer focused on clean and always tested code</h3>
+<h3 align="center">Full-Stack Web Developer focused on developing clean and always tested code</h3>
 
 - 🔭 I’m currently working on [Application suite: Coders' One](https://github.com/coders-app)
 
