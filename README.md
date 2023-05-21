@@ -3,7 +3,7 @@
 
 👩‍💻 I am a passionate full-stack web developer, dedicated to develop clean, sustainable and scalable code that adheres to SOLID principles. Aiming to provide users web applications that are accessible to everyone.
 
-📚 I strongly believe in the importance of testing to build reliable and efficient applications, including unit, component, integration, and E2E testing.
+📚 As a developer, I strongly believe in the importance of testing to build reliable and efficient applications, including unit, component, integration, and E2E testing.
 
 - 🔭 I’m currently working on [Application suite: Coders' One](https://github.com/coders-app)
 
