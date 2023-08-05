@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on [Application suite: Coders' One](https://github.com/coders-app)
+- 🔭 I’m currently working on eDiversa, large-scale applications for EDI solutions
 
 - 📫 Contact me at: **cristinajmartin98@hotmail.com**
 
