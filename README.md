@@ -5,7 +5,7 @@
 
 📚 As a developer, I strongly believe in the importance of testing to build reliable and efficient applications, including unit, component, integration, and E2E testing.
 
-
+✨ If you'd like to collaborate or just say hi, don't hesitate to send me a message!
 
 
 - 🔭 I’m currently working on eDiversa, large-scale applications for EDI solutions
