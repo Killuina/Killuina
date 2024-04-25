@@ -8,7 +8,7 @@
 ✨ If you'd like to collaborate or just say hi, don't hesitate to send me a message!
 
 
-- 🔭 I’m currently working on eDiversa, large-scale applications for EDI solutions
+- 🔭 I’ve recently worked on eDiversa, large-scale applications for EDI solutions
 
 - 📫 Contact me at: **cristinajmartin98@hotmail.com**
 
